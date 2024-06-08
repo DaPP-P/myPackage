@@ -1,0 +1,7 @@
+LICENSE.txt
+README.md
+setup.py
+prvanov_data_sci_helper.egg-info/PKG-INFO
+prvanov_data_sci_helper.egg-info/SOURCES.txt
+prvanov_data_sci_helper.egg-info/dependency_links.txt
+prvanov_data_sci_helper.egg-info/top_level.txt

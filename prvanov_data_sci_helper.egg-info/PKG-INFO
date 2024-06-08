@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: prvanov-data-sci-helper
+Version: 0.0.1
+Summary: Simple data science helper functions.
+Author: Daniel Prvanov
+Author-email: danielprva@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# myPackage
+
+Some basics functions that I find useful.
+
