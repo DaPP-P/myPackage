@@ -1,3 +1,3 @@
-# myPackage
+# Prvanov Data Science And Analytics Helper
 
-Some basics functions that I find useful.
+I want to add some basic function that I find useful to this package so I can use them anywhere easily.
